@@ -4,7 +4,7 @@
     "slug": "RockPaperSnap",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/images/icon.png",
+    "icon": "./assets/imagesappIcon.png",
     "scheme": "rockpapersnap",
     "userInterfaceStyle": "automatic",
     "ios": {
